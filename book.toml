@@ -1,0 +1,6 @@
+[book]
+authors = ["spf.eth"]
+language = "en"
+multilingual = false
+src = "src"
+title = "cookbook"
